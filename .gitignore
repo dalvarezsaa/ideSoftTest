@@ -1,7 +1,7 @@
 HELP.md
-target/
+/target/*
 # Pero incluir
-!/target/IdeSoftTest_DA.jar
+!/target/*.jar
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
